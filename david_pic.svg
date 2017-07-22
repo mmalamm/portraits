@@ -27,15 +27,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="147.61322"
+     inkscape:cx="-58.86196"
      inkscape:cy="574.32716"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
      inkscape:window-width="1680"
-     inkscape:window-height="933"
+     inkscape:window-height="931"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1" />
@@ -65,6 +65,18 @@
        preserveAspectRatio="none"
        height="1296"
        width="730.14087" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="green">
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       id="rect4352"
+       width="675.99408"
+       height="871.15558"
+       x="29.698484"
+       y="111.91019" />
   </g>
   <g
      inkscape:groupmode="layer"
