@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="384.70902"
-     inkscape:cy="500.98136"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="447.83158"
+     inkscape:cy="466.37106"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -56,7 +56,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <image
        y="107.09436"
        x="91.071449"
@@ -1360,6 +1360,11 @@
        style="fill:#1a1705;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 416.25,740.75506 9.46429,-38.03571 -24.65149,0.80824 0.74477,17.95566 z"
        id="path4408"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#1d1c0f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 416.25,740.75506 2.67857,26.96429 13.21429,1.42857 6.78571,-23.92857 -4.97665,-44.34637 -8.23763,1.84637 z"
+       id="path4410"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
