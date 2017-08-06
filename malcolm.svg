@@ -56,7 +56,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      sodipodi:insensitive="true"
-     style="display:inline;opacity:1">
+     style="display:none;opacity:1">
     <image
        y="43.633621"
        x="13.414271"
@@ -71,7 +71,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="green"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#00ff00;fill-opacity:1;stroke:none"
